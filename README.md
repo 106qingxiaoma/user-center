@@ -21,9 +21,9 @@
 
 ##  界面预览
 
-| 登录页 | 用户管理页 |
-|--------|------------|
-| ![登录页](screenshots/login.png) | ![管理页](screenshots/admin.png) |
+| 登录页 | 注册页 || 用户管理页 | 
+|--------|------------||--------|
+| ![登录页](/HomePage.png) | ![管zhu理页](/RegisterPage.png) || ![登录页](/ManagePage.png) |
 
 
 ##  技术栈
