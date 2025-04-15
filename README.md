@@ -23,7 +23,7 @@
 
 | 登录页 | 注册页 | 用户管理页 | 
 |--------|------------|--------|
-| ![登录页](/screenshots/HomePage.png) | ![管zhu理页](/screenshots/RegisterPage.png) | ![登录页](/screenshots/ManagePage.png) |
+| ![登录页](/screenshots/HomePage.png) | ![注册页](/screenshots/RegisterPage.png) | ![管理页](/screenshots/ManagePage.png) |
 
 
 ##  技术栈
