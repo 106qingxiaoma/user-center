@@ -1,6 +1,6 @@
 # 用户中心前端系统
 
-基于B站《Vue3+Ant Design实战》教学视频开发的前端用户管理系统，较完整实现前端界面与交互逻辑
+基于B站《Vue3+Ant Design实战》教学视频开发的前端用户中心页面，较完整实现前端界面与交互逻辑
 
 ##  项目特色
 
@@ -21,9 +21,9 @@
 
 ##  界面预览
 
-| 登录页 | 注册页 || 用户管理页 | 
-|--------|------------||--------|
-| ![登录页](/HomePage.png) | ![管zhu理页](/RegisterPage.png) || ![登录页](/ManagePage.png) |
+| 登录页 | 注册页 | 用户管理页 | 
+|--------|------------|--------|
+| ![登录页](/screenshots/HomePage.png) | ![管zhu理页](/screenshots/RegisterPage.png) || ![登录页](/screenshots/ManagePage.png) |
 
 
 ##  技术栈
@@ -37,8 +37,8 @@
 
 ## 项目结构
 src/
-├── api/            # 模拟接口层（可对接真实后端）
-│   └── user.ts     # 用户相关API（当前为前端mock）
+├── api/            # 模拟接口层
+│   └── user.ts     # 用户相关API
 ├── assets/         # 静态资源
 ├── components/     # 公共组件
 ├── layouts/        # 页面布局
